@@ -69,15 +69,6 @@ If you find this work helpful, please consider citing the following papers:
   journal={arXiv preprint arXiv:2201.00346},
   year={2022}
 }
-
-@article{wang2021light,
-  title={Light field image super-resolution using deformable convolution},
-  author={Wang, Yingqian and Yang, Jungang and Wang, Longguang and Ying, Xinyi and Wu, Tianhao and An, Wei and Guo, Yulan},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={1057--1071},
-  year={2021}
-}
 ``````
 
 
