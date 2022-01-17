@@ -61,7 +61,7 @@ python generate_visual_gradient_map.py
 Gradient results will be saved to `./GRAimages/`.
 
 ## Citation 
-If you find this work helpful, please consider citing the following papers:
+If you find this work helpful, please consider citing the following paper:
 ``````
 @article{wang2022detail,
   title={Detail Preserving Transformer for Light Field Image Super-Resolution},
