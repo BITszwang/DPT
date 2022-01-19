@@ -2,7 +2,8 @@
 Official Pytorch implementation of the paper "[Detail-Preserving Transformer for Light Field Image Super-Resolution](https://arxiv.org/abs/2201.00346)" accepted by AAAI 2022
 .
 
-## Update
+## Updates
+- 2022.01: Our method is available at the newly-released repository [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR), an open-source and easy-to-use toolbox for LF image SR.
 - 2022.01: The code is released. 
 
 
@@ -74,7 +75,7 @@ If you find this work helpful, please consider citing the following paper:
 
 ## Acknowledgements 
 This code is heavily based on [LF-DFNet](https://github.com/YingqianWang/LF-DFnet). We also refer to the codes in [VSR-Transformer](https://github.com/caojiezhang/VSR-Transformer), [COLA-Net](https://github.com/MC-E/COLA-Net-Collaborative-Attention-Network-for-Image-Restoration), and [SPSR](https://github.com/Maclory/SPSR). We thank the authors for sharing the codes. 
-We would also like to thank [Yingqian Wang](https://github.com/YingqianWang) for his help about LFSR.
+We would like to thank [Yingqian Wang](https://github.com/YingqianWang) for his help with LFSR. We would also like to thank [Zhengyu Liang](https://github.com/ZhengyuLiang24) for adding our DPT to the repository [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR).
 
 ## Contact
 If you have any question about this work, feel free to concat with me via shunzhouwang@bit.edu.cn.
