@@ -65,7 +65,7 @@ Gradient results will be saved to `./GRAimages/`.
 If you find this work helpful, please consider citing the following paper:
 ``````
 @article{wang2022detail,
-  title={Detail Preserving Transformer for Light Field Image Super-Resolution},
+  title={Detail-Preserving Transformer for Light Field Image Super-Resolution},
   author={Wang, Shunzhou and Zhou, Tianfei and Lu, Yao and Di, Huijun},
   journal={arXiv preprint arXiv:2201.00346},
   year={2022}
@@ -78,4 +78,4 @@ This code is heavily based on [LF-DFNet](https://github.com/YingqianWang/LF-DFne
 We would like to thank [Yingqian Wang](https://github.com/YingqianWang) for his help with LFSR. We would also like to thank [Zhengyu Liang](https://github.com/ZhengyuLiang24) for adding our DPT to the repository [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR).
 
 ## Contact
-If you have any question about this work, feel free to concat with me via shunzhouwang@bit.edu.cn.
+If you have any question about this work, feel free to contact with me via shunzhouwang@bit.edu.cn.
